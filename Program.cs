@@ -2,7 +2,6 @@
 {
     class Program
     {
-
         static void BurbleSort(int[] array)
         {
             int size = array.Length;
