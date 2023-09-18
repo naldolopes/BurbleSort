@@ -19,7 +19,7 @@
 
         static void Main(string[] args)
         {
-            int[] arrray = { 99, 52, 36, 84, 55, 39, 7, 1, 9, 120 };
+            int[] arrray = { 4, 2, 6, 5, 1, 3 };
 
             // Print array before Bubble Sort
             Console.WriteLine("\nArray before Bubble Sort:");

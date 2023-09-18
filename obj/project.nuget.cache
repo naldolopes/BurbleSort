@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z4rVeEnAZoYsFYErFblO+t73u5DYXLbL2VaglIFTj5lVH0lqbgMDo4KirHwviMSI8dAlbd/cQCNc78gAwPNaVg==",
+  "dgSpecHash": "cn8CyAYxqPXhMz4qulXMSRriP4X5ajYICZ7vRCBBVCIe+aZ2Q+i0fk92PwHgm6in0LuyRUhBjkMYuDLpYEMhvA==",
   "success": true,
-  "projectFilePath": "/home/lopz77/git/c#/BurbleSort/BurbleSort.csproj",
+  "projectFilePath": "/home/lopz77/git/dotnet/BurbleSort/BurbleSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
